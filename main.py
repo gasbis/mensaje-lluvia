@@ -48,4 +48,4 @@ if lluvia:
         to='whatsapp:+34606530438'
     )
     #print(message.status)
-    print("Lloviendo")
+    #print("Lloviendo")
