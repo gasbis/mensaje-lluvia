@@ -1,7 +1,7 @@
 import twilio.rest
 import requests
 import os
-
+FORCE_JAVASCRIPT_ACTIONS_TO_NODE24=true 
 #-------------------------- CONFIG API CLIMA --------------------------------------------------------
 apikey = os.environ.get("OWM_API_KEY")
 apidoor = "https://api.openweathermap.org/data/2.5/forecast"
